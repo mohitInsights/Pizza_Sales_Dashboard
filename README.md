@@ -9,6 +9,7 @@ Page 1: Business KPIs + Trends
 - Daily and Monthly Order Trends
 - % of Sales by Category and Size
 - Total Sales by Category
+
 Page 2: Best/Worst Sellers
 - Ranked by Total Revenue, Total Orders, and Total Quantity
 
@@ -17,7 +18,7 @@ Page 2: Best/Worst Sellers
 - Power BI: for dashboard design, DAX logic, and page navigation
 - DAX: for time intelligence and dynamic filtering
 
-🐍 What’s Next
+🐍 What’s Next: 
 I’ve started learning Python for automation and data workflows, and I’m excited to integrate it into future projects alongside SQL and Power BI.
 
 
